@@ -5,9 +5,9 @@ int r = 6;
 int g = 5;
 int b = 3; 
  
-int  b_far = 300;
-int  b_close = 76;
-int  g_far = 75;
+int  b_far = 200;
+int  b_close = 101;
+int  g_far = 100;
 int  g_close = 51;
 int  r_far = 50;
 int  r_close = 0;
